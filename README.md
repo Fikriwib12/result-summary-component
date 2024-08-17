@@ -10,8 +10,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Links](#links)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/result-summary-component-i6y1bTPv3N)
+- Live Site URL: [Add live site URL here](https://result-summary-component-coral-rho.vercel.app/)
 
 ### Built with
 
@@ -37,30 +35,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Fikri](https://fikri-portfolio-two.vercel.app/)
+- Frontend Mentor - [@Fikriwib12](https://www.frontendmentor.io/profile/Fikriwib12)
